@@ -1,7 +1,7 @@
 ## Opa! Meu nome é Caio Menezes 👋
 
 - 🔭 Atualmente estou trabalhando em projetos Fullstack
-- 🌱 Estou aprendendo Javascript, Ruby, Python, React
+- 🍃 Estou aprendendo Javascript, Ruby, Python, React
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=caiomenesz&show_icons=true&theme=radical">
