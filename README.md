@@ -1,6 +1,5 @@
-### Hi there 👋
+### Opa meu nome é Caio Menezes 👋
 
-<!--
 **CaioMenesz/CaioMenesz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=caiomenesz&show_icons=true&theme=radical">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomenesz&hide_progress=true&theme=radical)">
+</div>
