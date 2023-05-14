@@ -1,4 +1,4 @@
-##Opa! Meu nome é Caio Menezes 👋
+## Opa! Meu nome é Caio Menezes 👋
 
 - 🔭 Atualmente estou trabalhando em projetos Fullstack
 - 🍃 Estou aprendendo Javascript, Ruby, Python, React
