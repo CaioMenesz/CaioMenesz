@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=caiomenesz&show_icons=true&theme=radical">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomenesz&hide_progress=true&theme=radical)">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomenesz&theme=radical&langs_count=8">
 </div>
