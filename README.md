@@ -4,7 +4,7 @@
 - 🍃 Estou aprendendo Javascript, Ruby, Python, React
 
 <div>
-  <img height="180cm" src="https://github-readme-stats-ten-gilt.vercel.app">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomenesz&layout=compact&theme=radical&langs_count=8">
 </div>
 
